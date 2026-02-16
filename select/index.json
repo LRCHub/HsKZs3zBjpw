@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "日曜の朝",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:50:13.909964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日曜の朝",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_日曜の朝_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nichiyou No Asa (日曜の朝)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Nichiyou_No_Asa_(日曜の朝)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "日曜の朝",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_日曜の朝_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "日曜の朝",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_日曜の朝_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nichiyō no Asa (日曜の朝)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/05_Nichiyō_no_Asa_(日曜の朝)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "日曜の朝",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_日曜の朝_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "04.日曜の朝",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/07_04.日曜の朝_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "日曜の朝",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/08_日曜の朝_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "日曜の朝 (Remastered 2018)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/09_日曜の朝_(Remastered_2018)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "日曜の朝",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/10_日曜の朝_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "日曜の朝 (Remastered 2018)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/11_日曜の朝_(Remastered_2018)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日曜の朝",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_日曜の朝_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "日曜の朝",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_日曜の朝_宇多田_ヒカル.txt"
+    }
+  ]
+}
